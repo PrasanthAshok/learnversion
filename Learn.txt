@@ -4,5 +4,8 @@ Edit added with new infos
 
 New changed added
 
+<<<<<<< HEAD
 Second change added
+=======
+>>>>>>> master
 
